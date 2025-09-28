@@ -169,8 +169,6 @@ def menu_karyawan():
         else:
             print("menu tidak valid")
 
-def menu_keluar():
-    print("anda berhasil keluar, program selesai")
 
 while True:
     role = login()
@@ -181,6 +179,7 @@ while True:
         break
     else:
         print()
+
 
 
 
