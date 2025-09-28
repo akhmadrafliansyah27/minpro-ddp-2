@@ -169,7 +169,6 @@ def menu_karyawan():
         else:
             print("menu tidak valid")
 
-
 while True:
     role = login()
     if role == "manager":
@@ -179,6 +178,7 @@ while True:
         break
     else:
         print()
+
 
 
 
