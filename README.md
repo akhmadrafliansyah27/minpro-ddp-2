@@ -68,10 +68,24 @@
 - Menu **LOGOUT** adalah menu untuk keluar atau mengakhiri program dari menu khusus role manager dimana program akan menampilkan pesan **"anda berhasil keluar"** dan akan langsung kembali ke halaman login.
 - Karena tadi sudah login di role manager selanjutnya saya login di role karyawan.
 
-**6. Menu READ dan LOGOUT**
+**6. Menu READ**
 
 
-  ![Output](Screenshot6.png)
+  ![Output](Screenshot7.png)
+
+
+  - di menu role karyawan ini hanya ada dua yaitu **READ** dan **LOGOUT**. pertama saya mengetik angka **"1"** atau bisa juga **"READ"** untuk menampilkan daftar jadwal matkul yang sudah saya tambahkan sebelumnya di role manager, bisa di lihat di situ hanya ada satu daftar jadwal matkul lengkap dengan **nama matkulnya, hari, jam, nama gedung**. jika sebelumnya di role manager saya tidak menambahkan jadwal matkul apapun maka di menu **READ** ini daftar jadwal matkul tidak ada atau kosong dan hanya menampilkan pesan **"daftar jadwal matkul masih kosong"**. selanjutnya program akan langsung kembali ke menu utama.
+
+**7. Menu LOGOUT**
+
+
+![Output](Screenshot6.png)
+
+
+- Di menu yang kedua ini saya mengetik angka **"2"** atau bisa juga **"LOGOUT"** untuk keluar atau mengakhiri seluruh program dan program akan menampilkan pesan **"anda berhasil keluar"**.
+
+
+  
 
 
 
