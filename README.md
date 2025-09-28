@@ -25,4 +25,15 @@
 
 **penjelasan output pada terminal program pytho dengan memperlihatkan semua kondisi:**
 
-![Output](Screenshot%20(32).png)
+**1. Halaman login dan menu khusus role manager**
+
+
+ ![Output](Screenshot1.png)
+ 
+ -Di halaman login user memasukan username dan password untuk login sebagai manager atau karyawan dengan ketentuan **"Username : ahmad, password : 123" (role = manager)**, **"Username : rafli, password : 456" (role = karyawan)**. jika user tidak memasukan username dan password dengan ketentuan login tersebut maka user tidak bisa masuk kedalam program sampai user benar memasukan username dan password untuk role manager atau karyawan. Di screenshot tersebut pertama saya masuk di login sebagai role manager.
+ 
+ -karena login sebagai role manager maka program akan memberikan lima pilihan menu khusus role manager yaitu **CREATE**, **READ**, **UPDATE**, **DELETE**, **LOGOUT**.
+ 
+ -Pertama saya memilih role manager dengan mengetik angka **"1"** dan bisa juga mengetik **"CREAT"**., maka program akan menjalankan menu **"CREATE"** yang merupakan menu untuk menambahkan jadwal matkul, pertama program akan menampilkan pertanyaan **"apakah anda ingin menambahkan jadwal matkul? (yes/no)"**. di situ saya mengetik **yes** untuk menambahkan jadwal matkul dengan mengisi **nama matkul**, **hari**, **jam**, **nama gedung**. jika sudah maka program akan bertanya lagi **"apakah anda ingin menambahkan jadwal matkul? (yes/no)"** distu saya jawab **yes** lagi dan di pertanyaan ketiga saya jawab **no** untuk berhenti menambahkan jadwal matkul ke dalam daftar.
+ 
+ 
